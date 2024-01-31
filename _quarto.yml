@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "elisa kaori"
+  navbar:
+    left:
+      - href: index.qmd
+        text: sobre mim
+      - href: about.qmd
+        text: experiência
+      - projetos.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+    lang: pt
+
+
+

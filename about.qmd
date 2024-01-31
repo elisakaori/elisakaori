@@ -1,0 +1,40 @@
+---
+title: ""
+---
+
+## **Experiência Acadêmica**
+
+#### Universidade Federal de Uberlândia | Uberlândia, MG
+##### *Bacharelado em Estatística | Mar 2020 - presente*
+
+
+#### **Projetos e atividades:**
+
+#######
+#### *PET Estatística (Programa de Educação Tutorial)*
+Programa de pesquisa, extensão e ensino dentro da Universidade em que realizamos palestras, grupos de estudo, minicursos, eventos dentro da universidade, etc. 
+
+
+#### *Projeto PrograManas*
+Coordeno o planejamento e execução do PrograManas, um projeto de programação em Python voltado para mulheres. Foi desenvolvido pelos estudantes do PET - Estatística da Universidade Federal de Uberlândia junto ao professor tutor do grupo.
+
+Objetivo:  diminuir a disparidade de gênero dentro das carreiras de tecnologia. São promovidas aulas gratuitas de programação como forma de estímulo para a inserção de mulheres na área.
+
+
+
+## **Experiencia profissional**
+
+#### *Estagiária de Estatística*
+Sotreq S.A. | 02/2022 - 08/2022
+
+* Análise e tratamento de dados.
+* Automatização de processos com VBA (Microsoft).
+* Criação de painéis e ferramentas para facilitar a leitura de dados.
+
+#### *Estagiária DEV*
+Kyros Tecnologia | 09/2022 - 03/2023
+
+*   Desenvolvimento em Python e SQL (Oracle).
+*   Especificações técnicas e funcionais sobre os scripts desenvolvidos.
+*   Documentação das bibliotecas implementadas.
+*   Fluxogramas e pseudocódigos para melhor entendimento dos scripts.

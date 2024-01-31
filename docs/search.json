@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Meu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral.\nSinta-se à vontade para explorar meus repositórios e projetos. Em caso de dúvidas ou só interesse, não hesite em entrar em contato."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Programa de pesquisa, extensão e ensino dentro da Universidade em que realizamos palestras, grupos de estudo, minicursos, eventos dentro da universidade, etc.\n\n\n\nCoordeno o planejamento e execução do PrograManas, um projeto de programação em Python voltado para mulheres. Foi desenvolvido pelos estudantes do PET - Estatística da Universidade Federal de Uberlândia junto ao professor tutor do grupo.\nObjetivo: diminuir a disparidade de gênero dentro das carreiras de tecnologia. São promovidas aulas gratuitas de programação como forma de estímulo para a inserção de mulheres na área."
+  },
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "projetos",
+    "section": "",
+    "text": "classificação de cogumelos\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nprojeto2\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "projetos.html#projeto-1",
+    "href": "projetos.html#projeto-1",
+    "title": "projetos",
+    "section": "projeto 1",
+    "text": "projeto 1\nNeste projeto, usaremos modelos de classificação para comparar sua eficácia quanto à classificação de cogumelos em venenoso ou comestíveis."
+  },
+  {
+    "objectID": "projetos.html#projeto-2",
+    "href": "projetos.html#projeto-2",
+    "title": "projetos",
+    "section": "projeto 2",
+    "text": "projeto 2"
+  },
+  {
+    "objectID": "index.html#experiência-acadêmica",
+    "href": "index.html#experiência-acadêmica",
+    "title": "sobre mim",
+    "section": "Experiência Acadêmica",
+    "text": "Experiência Acadêmica\nUniversidade Federal de Uberlândia| Uberlândia, MG Bacharelado em Estatística | Mar 2020 - presente"
+  },
+  {
+    "objectID": "index.html#experiencia-profissional",
+    "href": "index.html#experiencia-profissional",
+    "title": "sobre mim",
+    "section": "Experiencia profissional",
+    "text": "Experiencia profissional\nEstagiária de Estatística Sotreq S.A. | 02/2022 - 08/2022 • Análise e tratamento de dados. • Automatização de processos com VBA (Microsoft). • Criação de painéis e ferramentas para facilitar a leitura de dados.\nEstagiária DEV Kyros Tecnologia | 09/2022 - 03/2023 • Desenvolvimento em Python e SQL (Oracle). • Especificações técnicas e funcionais sobre os scripts desenvolvidos. • Documentação das bibliotecas implementadas. • Fluxogramas e pseudocódigos para melhor entendimento dos scripts."
+  },
+  {
+    "objectID": "about.html#experiência-acadêmica",
+    "href": "about.html#experiência-acadêmica",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Programa de pesquisa, extensão e ensino dentro da Universidade em que realizamos palestras, grupos de estudo, minicursos, eventos dentro da universidade, etc.\n\n\n\nCoordeno o planejamento e execução do PrograManas, um projeto de programação em Python voltado para mulheres. Foi desenvolvido pelos estudantes do PET - Estatística da Universidade Federal de Uberlândia junto ao professor tutor do grupo.\nObjetivo: diminuir a disparidade de gênero dentro das carreiras de tecnologia. São promovidas aulas gratuitas de programação como forma de estímulo para a inserção de mulheres na área."
+  },
+  {
+    "objectID": "about.html#experiencia-profissional",
+    "href": "about.html#experiencia-profissional",
+    "title": "elisa kaori",
+    "section": "Experiencia profissional",
+    "text": "Experiencia profissional\n\nEstagiária de Estatística\nSotreq S.A. | 02/2022 - 08/2022\n\nAnálise e tratamento de dados.\nAutomatização de processos com VBA (Microsoft).\nCriação de painéis e ferramentas para facilitar a leitura de dados.\n\n\n\nEstagiária DEV\nKyros Tecnologia | 09/2022 - 03/2023\n\nDesenvolvimento em Python e SQL (Oracle).\nEspecificações técnicas e funcionais sobre os scripts desenvolvidos.\nDocumentação das bibliotecas implementadas.\nFluxogramas e pseudocódigos para melhor entendimento dos scripts."
+  },
+  {
+    "objectID": "index.html#sobre-mim",
+    "href": "index.html#sobre-mim",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Meu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral.\nSinta-se à vontade para explorar meus repositórios e projetos. Em caso de dúvidas ou só interesse, não hesite em entrar em contato."
+  },
+  {
+    "objectID": "posts/projeto1.html",
+    "href": "posts/projeto1.html",
+    "title": "classificação de cogumelos",
+    "section": "",
+    "text": "Neste projeto, construiremos e compararemos modelos de classificação usando duas metodologias diferentes, sendo elas Árvore de decisão e Floresta aleatória. Para isso, usaremos um conjunto de dados com informaçõessobre atributos de cogumelos da família AgaricuseLepiota, afim de classificá-los de acordo com sua classe: edible (comestível) ou poisonous (venenoso)."
+  },
+  {
+    "objectID": "projetos.html#here-is-my-listing",
+    "href": "projetos.html#here-is-my-listing",
+    "title": "projetos",
+    "section": "",
+    "text": "Nenhum item correspondente"
+  },
+  {
+    "objectID": "projetos.html#this-is-a-heading",
+    "href": "projetos.html#this-is-a-heading",
+    "title": "elisa kaori",
+    "section": "This is a heading",
+    "text": "This is a heading\nAnd where is some content"
+  }
+]

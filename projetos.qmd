@@ -1,0 +1,16 @@
+---
+title: "projetos"
+listing:
+  id: main-listing
+  contents: posts
+  date-format: long
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+title-block-banner: true
+---
+
+
+:::{#main-listing}
+:::

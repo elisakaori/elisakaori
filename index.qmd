@@ -1,0 +1,22 @@
+---
+title: "elisa kaori"
+about:
+  template: trestles
+  image: bolinha_simba.jpg
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+  
+---
+## sobre mim 
+
+Meu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral. 
+
+Sinta-se à vontade para explorar meus repositórios e projetos. Em caso de dúvidas ou só interesse, não hesite em entrar em contato.
+
