@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: simplex.scss
     css: styles.css
     toc: true
     lang: pt
