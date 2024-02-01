@@ -1,6 +1,9 @@
 ---
 title: "Lorem ipsum"
 image: lorem.jpg
+date: "Janeiro de 2024"
+date-format: MM/YYYY
+categories: "teste"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices mauris sit amet sem lacinia, a maximus velit dictum. Cras euismod, turpis vitae tincidunt feugiat, augue felis viverra eros, eget rutrum massa massa nec nibh. In nec nisi vel dolor auctor malesuada eu ac felis. Donec vitae augue mollis, faucibus purus id, venenatis arcu. Aenean in tortor facilisis, vulputate lectus eleifend, efficitur augue. Sed at odio quis felis pulvinar congue scelerisque et justo. Phasellus auctor mi eu dui pellentesque, a viverra lorem tincidunt. Morbi dignissim sodales diam ultricies aliquet. Donec interdum blandit leo sed faucibus.

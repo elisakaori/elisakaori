@@ -3,8 +3,8 @@ title: "projetos"
 listing:
   id: main-listing
   contents: posts
-  date-format: long
-  sort: "date desc"
+  date-format: MM/YYYY
+  sort: "date asc"
   type: grid
   categories: true
 page-layout: full
