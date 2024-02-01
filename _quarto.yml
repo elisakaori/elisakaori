@@ -11,6 +11,7 @@ website:
       - href: experiencia.qmd
         text: experiência
       - projetos.qmd
+  favicon: transferir.jpg
 
 format:
   html:

@@ -74,7 +74,7 @@
     "href": "posts/projeto1.html",
     "title": "classificação de cogumelos",
     "section": "",
-    "text": "Neste projeto, construiremos e compararemos modelos de classificação usando duas metodologias diferentes, sendo elas Árvore de decisão e Floresta aleatória. Para isso, usaremos um conjunto de dados com informaçõessobre atributos de cogumelos da família AgaricuseLepiota, afim de classificá-los de acordo com sua classe: edible (comestível) ou poisonous (venenoso)."
+    "text": "Neste projeto, construiremos e compararemos modelos de classificação usando duas metodologias diferentes, sendo elas Árvore de decisão e Floresta aleatória. Para isso, usaremos um conjunto de dados com informações sobre atributos de cogumelos da família AgaricuseLepiota, afim de classificá-los de acordo com sua classe: edible (comestível) ou poisonous (venenoso)."
   },
   {
     "objectID": "projetos.html#here-is-my-listing",
