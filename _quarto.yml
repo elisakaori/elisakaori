@@ -8,13 +8,13 @@ website:
     left:
       - href: index.qmd
         text: sobre mim
-      - href: about.qmd
+      - href: experiencia.qmd
         text: experiência
       - projetos.qmd
 
 format:
   html:
-    theme: simplex.scss
+    theme: cosmo.scss
     css: styles.css
     toc: true
     lang: pt

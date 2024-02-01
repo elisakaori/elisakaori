@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "elisa kaori",
     "section": "",
-    "text": "Meu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral.\nSinta-se à vontade para explorar meus repositórios e projetos. Em caso de dúvidas ou só interesse, não hesite em entrar em contato."
+    "text": "sobre mim\nMeu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral.\nSinta-se à vontade para explorar meus repositórios e projetos. Em caso de dúvidas ou só interesse, não hesite em entrar em contato."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "projetos.html",
     "title": "projetos",
     "section": "",
-    "text": "classificação de cogumelos\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nprojeto2\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNenhum item correspondente"
+    "text": "classificação de cogumelos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorem ipsum\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "projetos.html#projeto-1",
@@ -89,5 +89,33 @@
     "title": "elisa kaori",
     "section": "This is a heading",
     "text": "This is a heading\nAnd where is some content"
+  },
+  {
+    "objectID": "experiencia.html",
+    "href": "experiencia.html",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Programa de pesquisa, extensão e ensino dentro da Universidade em que realizamos palestras, grupos de estudo, minicursos, eventos dentro da universidade, etc.\n\n\n\nCoordeno o planejamento e execução do PrograManas, um projeto de programação em Python voltado para mulheres. Foi desenvolvido pelos estudantes do PET - Estatística da Universidade Federal de Uberlândia junto ao professor tutor do grupo.\nObjetivo: diminuir a disparidade de gênero dentro das carreiras de tecnologia. São promovidas aulas gratuitas de programação como forma de estímulo para a inserção de mulheres na área."
+  },
+  {
+    "objectID": "experiencia.html#experiência-acadêmica",
+    "href": "experiencia.html#experiência-acadêmica",
+    "title": "elisa kaori",
+    "section": "",
+    "text": "Programa de pesquisa, extensão e ensino dentro da Universidade em que realizamos palestras, grupos de estudo, minicursos, eventos dentro da universidade, etc.\n\n\n\nCoordeno o planejamento e execução do PrograManas, um projeto de programação em Python voltado para mulheres. Foi desenvolvido pelos estudantes do PET - Estatística da Universidade Federal de Uberlândia junto ao professor tutor do grupo.\nObjetivo: diminuir a disparidade de gênero dentro das carreiras de tecnologia. São promovidas aulas gratuitas de programação como forma de estímulo para a inserção de mulheres na área."
+  },
+  {
+    "objectID": "experiencia.html#experiencia-profissional",
+    "href": "experiencia.html#experiencia-profissional",
+    "title": "elisa kaori",
+    "section": "Experiencia profissional",
+    "text": "Experiencia profissional\n\nEstagiária de Estatística\nSotreq S.A. | 02/2022 - 08/2022\n\nAnálise e tratamento de dados.\nAutomatização de processos com VBA (Microsoft).\nCriação de painéis e ferramentas para facilitar a leitura de dados.\n\n\n\nEstagiária DEV\nKyros Tecnologia | 09/2022 - 03/2023\n\nDesenvolvimento em Python e SQL (Oracle).\nEspecificações técnicas e funcionais sobre os scripts desenvolvidos.\nDocumentação das bibliotecas implementadas.\nFluxogramas e pseudocódigos para melhor entendimento dos scripts."
+  },
+  {
+    "objectID": "posts/projeto2.html",
+    "href": "posts/projeto2.html",
+    "title": "Lorem ipsum",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ultrices mauris sit amet sem lacinia, a maximus velit dictum. Cras euismod, turpis vitae tincidunt feugiat, augue felis viverra eros, eget rutrum massa massa nec nibh. In nec nisi vel dolor auctor malesuada eu ac felis. Donec vitae augue mollis, faucibus purus id, venenatis arcu. Aenean in tortor facilisis, vulputate lectus eleifend, efficitur augue. Sed at odio quis felis pulvinar congue scelerisque et justo. Phasellus auctor mi eu dui pellentesque, a viverra lorem tincidunt. Morbi dignissim sodales diam ultricies aliquet. Donec interdum blandit leo sed faucibus."
   }
 ]

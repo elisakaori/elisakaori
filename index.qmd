@@ -4,17 +4,17 @@ about:
   template: trestles
   image: eu.jpg
   image-width: 10em
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: twitter
       text: twitter
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/elisakaori
   
 ---
-## sobre mim 
+#### sobre mim 
 
 Meu nome é Elisa, tenho 24 anos e sou estudante de Estatística. Atualmente estou aprendendo a programar e tenho bastante interesse em data science e machine learning. Programo principalmente em R e um pouco em Python, porém sempre disposta a aprender novas linguagens. Possuo outros hobbies, como costura e artes manuais no geral. 
 
